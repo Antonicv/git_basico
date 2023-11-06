@@ -13,3 +13,5 @@ pasar al stage: git add .gitignore README.md
  pasar al commit (version 1)
  git commit -m "README modificado" (texto descriptivo sobre lo que se ha hecho)
  git commit -a -m "README modificado"
+ (puedes cambiar el nombre de la rama con git branch -m (nombre))
+ 
